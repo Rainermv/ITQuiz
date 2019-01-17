@@ -1,0 +1,272 @@
+﻿#D Easy
+
+#S Jogos Digitais
+
+#Q O profissional da área de Jogos Digitais está apto à trabalhar:
+	#A Em um estúdio de desenvolvimento de jogos, como Game Designer.
+	#A Em uma empresa de e-commerce, como operador de drones de entrega de mercadorias.
+	#A Na NASA, como astronauta.
+	#A Em uma fábrica de componentes eletrônicos, testando placas de vídeo em ambiente controlado.  
+	#A Em uma produtora de vídeo, como editor e finalizador de imagens.
+    
+#Q Após se formar no curso de Jogos Digitais, o profissional poderá:
+	#A Ser sócio de uma startup de criação de jogos e aplicativos de entretenimento.
+	#A Criar sites e gerenciar conteúdo de redes sociais de empresas.  
+	#A Abrir sua própria panificadora e fornecer pães e bolos para supermercados.
+	#A Produzir conteúdo jornalístico para empresas de comunicação.
+	#A Ser modelo fotográfico de revistas de moda.
+
+#D Medium
+
+#Q No curso de Jogos Digitais o estudante vai aprender a:
+	#A Criar e cozinhar pratos gourmet.
+	#A Criar e programar soluções de entretenimento digital.
+	#A Fazer vídeos de gameplay e jogar.  
+	#A Desenhar e pintar HQs.
+	#A Construir robôs que jogam futebol.
+    
+#Q Dentre as alternativas, quais são as certificações que o curso de Jogos Digitais oferece:
+	#A Programador e Game Designer.
+	#A Técnico de Controle e automação de sistemas integrados.
+	#A Montador e finalizador de vídeo.
+	#A Técnico em eletrônica.
+	#A Consultor de banco de dados distribuídos.
+
+#D Hard
+
+#Q Dentre as alternativas, qual delas representa o conjunto de disciplinas integrantes do currículo do curso de Jogos Digitais:
+	#A Roteiro, Computação Gráfica e Física.
+	#A Controladoria, Webdesign e Automação.
+	#A História da arte, Anatomia e Métricas.
+	#A Comportamento de consumo, Lógica e Geografia.
+	#A Química, Produção fonográfica e Criptografia.
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+#S Segurança da Informação
+
+#D Easy
+
+#Q No curso de Segurança da Informação o estudante vai aprender a:
+	#A Definir a implantação de políticas de segurança e análise de vulnerabilidades de sistemas.
+	#A Criar um projeto de uma casa, combinando elementos de arte e funcionalidades.
+	#A Criar narrativas e produzir curtas-metragens. 
+	#A Controlar as métricas de audiência de um site.
+	#A Construir robôs que jogam futebol.
+    
+#Q O profissional da área de Segurança da Informação está apto à trabalhar:
+	#A Em uma empresa de e-commerce, como Gerente na área de Redes e Gestão de Riscos.
+	#A Na NASA, como Astronauta.  
+	#A Em uma publisher que lança jogos de console, como Relações Públicas.
+	#A Em uma fábrica de automóveis, como Assistente de Testes de Impacto. 
+	#A Em uma agência digital, como Analista de Métricas. 
+
+#D Medium
+    
+#Q Após se formar no curso de Segurança da Informação, o profissional poderá:
+	#A Trabalhar em empresas de consultoria, investigando crimes realizados por computador.
+	#A Atuar em estabelecimentos e casas noturnas, controlando o fluxo e mantendo a integridade física dos presentes.
+	#A Abrir sua própria empresa de produção e gestão de conteúdos em redes sociais.
+	#A Desenvolver projetos próprios de criação de jogos digitais sérios, para empresas e estabelecimentos de ensino.
+	#A Trabalhar na indústria do entretenimento, gerenciando projetos de produtos digitais para o consumidor final, com base em metodologias ágeis.
+    
+#Q Dentre as alternativas, quais são as certificações que o curso de Segurança da Informação oferece:
+	#A Analista de Segurança de Sistemas Computacionais e Gerente de Segurança da Informação.
+	#A Analista de Suporte de Aplicações Móveis e Gestor de Conteúdo de Redes Sociais.
+	#A Analista de Métricas e Gerente de Negócios.
+	#A Diretor de Cena e Técnico de Som Direto.
+	#A Técnico em Mecânica Industrial.
+
+#D Hard
+    
+#Q Dentre as alternativas, qual delas representa o conjunto de disciplinas integrantes do currículo do curso de Segurança da Informação:
+	#A Criptografia, Mecanismos de Controle de Acesso e Protocolo de Redes de Computador.
+	#A Design de Interação, Computação Gráfica e Física.
+	#A História da Arte, Lógica e Geografia.
+	#A Química, Literatura e Técnicas de Defesa Pessoal.
+	#A Roteiro, Som e Inteligência Artificial.
+    
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+        
+#S Análise e Desenvolvimento de Sistemas
+
+#D Easy
+
+#Q No curso de Análise e Desenvolvimento de Sistemas o estudante vai aprender a:
+	#A Desenvolver sistemas e aplicar modelos específicos de qualidade de software.
+	#A Criar um projeto de um produto, combinando requisitos de usabilidade e estética.
+	#A Criar roteiros para jogos. 
+	#A Criar textos e conteúdos para um produto digital.
+	#A Controlar as métricas de audiência de um site.
+
+#Q Após se formar no curso de Análise e Desenvolvimento de Sistemas, o profissional poderá:
+	#A Trabalhar em uma equipe de desenvolvimento de software, na área de TI de grandes empresas.  
+	#A Criar um roteiro e produzir uma série para televisão.
+	#A Abrir sua própria empresa de produção e gestão de conteúdos em redes sociais.
+	#A Desenvolver projetos de design, criando produtos para empresas. 
+	#A Trabalhar na indústria do entretenimento, gerenciando a produção de shows internacionais e nacionais.
+
+#Medium
+
+#Q O profissional da área de Análise e Desenvolvimento de Sistemas está apto à trabalhar:
+	#A Em uma empresa de desenvolvimento de software, como Analista de Qualidade na área de testes de softwares.
+	#A Em uma secretaria ou área do governo, como Relações Públicas.
+	#A Na NASA, como Astronauta.  
+	#A Em uma agência digital, como Redator. 
+	#A Em uma multinacional, como Gerente de Logística Integrada. 
+        
+#Q Dentre as alternativas, quais são as certificações que o curso de  Análise e Desenvolvimento de Sistemas oferece:
+	#A Analista de Requisitos de Software  e Testador de Software.
+	#A Analista de Suporte de Aplicações Móveis e Gestor de Conteúdo de Redes Sociais.
+	#A Analista de Métricas e Gerente de Negócios.
+	#A Diretor de Cena e Técnico de Som Direto.
+	#A Técnico em Mecânica Industrial.
+
+#D Hard
+
+#Q Dentre as alternativas, qual delas representa o conjunto de disciplinas integrantes do currículo do curso de  Análise e Desenvolvimento de Sistemas:
+	#A Matemática para Computação, Processos de Teste de Software e Banco de Dados
+	#A Comportamento de Consumo, Computação Gráfica e Física
+	#A História da Arte, Lógica e Geografia
+	#A Química, Literatura e Anatomia
+	#A Roteiro, Interação Humano-Computador e História
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+#S Gestão da Tecnologia da Informação Ead
+
+#D Easy
+
+#Q No curso de Gestão da Tecnologia da Informação o estudante vai aprender a:
+	#A Gerenciar os recursos tecnológicos aplicados pelas organizações.
+	#A Projetar produtos, combinando requisitos de usabilidade e estética.
+	#A Desenvolver projetos sociais em áreas carentes.
+	#A Criar textos e conteúdos para um produto digital.
+	#A Analisar as métricas de audiência de um site.
+
+#Q O profissional da área de Gestão da Tecnologia da Informação está apto à trabalhar:
+	#A Em uma empresa privada como Gestor da área de Tecnologia da Informação (TI).
+	#A Em uma secretaria ou área do governo, como Relações Públicas.
+	#A Na NASA, como Astronauta.  
+	#A Em uma agência digital, como Diretor de Arte.
+	#A Em uma multinacional, como Analista Financeiro. 
+  
+#D Medium
+ 
+#Q Após se formar no curso de Gestão da Tecnologia da Informação, o profissional poderá:
+	#A Trabalhar em uma equipe de desenvolvimento de software, na área de TI de grandes empresas.  
+	#A Criar um roteiro e produzir uma série para televisão.
+	#A Abrir sua própria empresa de produção e gestão de conteúdos em redes sociais.
+	#A Desenvolver projetos de design, criando produtos para empresas.
+	#A Trabalhar na indústria do entretenimento, gerenciando a produção de shows internacionais e nacionais.
+    
+#Q Dentre as alternativas, quais são as certificações que o curso de  Análise e Desenvolvimento de Sistemas oferece:
+	#A Analista de suporte e Gestor de projetos de sistemas de informação.
+	#A Analista Financeiro e Gestor de Conteúdo de Redes Sociais.
+	#A Analista de Métricas e Gerente de Negócios.
+	#A Diretor de Cena e Técnico de Som Direto.
+	#A Técnico em Mecânica Industrial.
+
+#D Hard
+
+#Q Dentre as alternativas, qual delas representa o conjunto de disciplinas integrantes do currículo do curso de Gestão da Tecnologia da Informação :
+	#A Oficina de Raciocínio Lógico e Quantitativo, Tecnologias para Inteligência Competitiva e Comércio Eletrônicos.
+	#A Comportamento de Consumo e Física.
+	#A História da Arte, Geografia e Anatomia.
+	#A Química, Literatura e Atendimento em Publicidade.
+	#A Roteiro, Som e Edição de Imagens.
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+#S Sistemas de Informação
+
+#D Easy
+
+#Q No curso de Sistemas de Informação o estudante vai aprender a:
+	#A Criar soluções baseadas em tecnologia da informação para organizações.
+	#A Escrever textos e anúncios publicitários.
+	#A Produzir e organizar a estrutura necessária para realização de uma obra audiovisual.
+	#A Criar blogs e conteúdos para um produto digital.
+	#A Controlar as métricas de audiência de um site.
+
+#Q O profissional da área de Sistemas de Informação está apto à trabalhar:
+	#A Em uma empresa privada ou pública, como Analista de Sistemas.
+	#A Em uma secretaria ou área do governo, como Relações Públicas.
+	#A Na NASA, como Astronauta.  
+	#A Em uma agência de publicidade, como Redator. 
+	#A Em uma multinacional, como Analista Financeiro.
+    
+#D Medium    
+    
+#Q Após se formar no curso de Sistemas de Informação, o profissional poderá:
+	#A Trabalhar na área de TI de empresas públicas ou privadas, com desenvolvimento, implantação ou gestão da infraestrutura de tecnologia da informação.
+	#A Criar um roteiro e produzir uma série para televisão.
+	#A Abrir sua própria empresa de produção e gestão de conteúdos em redes sociais.
+	#A Desenvolver projetos de design, criando produtos para empresas. 
+	#A Trabalhar na indústria do entretenimento, gerenciando a produção de shows internacionais e nacionais.
+    
+#Q Dentre as alternativas, indique as funções que o profissional formado no curso de Sistemas de Informação poderá exercer:
+	#A Desenvolvedor, Analista de Sistemas, Analista de Negócios, Consultor/Auditor de Sistemas de Informação.
+	#A Analista Métricas, Analista de Marketing Digital e Gestor de Conteúdo de Redes Sociais.
+	#A Executivo de Contas, Relações Públicas, Diretor de Arte.
+	#A Diretor de Cena, Técnico de Som Direto e Montador de Cinema.
+	#A Técnico em Mecânica Industrial, Controlador de Vôo, Engenheiro de Minas e Energia.
+
+#D Hard
+
+#Q Dentre as alternativas, qual delas representa o conjunto de disciplinas integrantes do currículo do curso de Sistemas de Informação :
+	#A Engenharia de Requisitos, Programação, Banco de Dados.
+	#A Comportamento de Consumo, Computação Gráfica e Física.
+	#A Geografia, Controladoria e Finanças.
+	#A Química, Literatura e Anatomia.
+	#A Roteiro, Som e História.
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+#S Ciência da Computação
+
+#D Easy
+
+#Q No curso de Ciência da Computação o estudante vai aprender a:
+	#A Conceitos que abrangem o conjunto de teorias, métodos e técnicas para a criação de todos os tipos de sistemas computacionais.
+	#A Criar o design de um artefato, combinando requisitos de usabilidade e estética.
+	#A Criar roteiros e o game design de jogos. 
+	#A Criar textos e conteúdos para um produto digital.
+	#A Controlar as métricas de audiência de um site.
+
+#Q O profissional da área de Ciência da Computação está apto à trabalhar:
+	#A Em empresas que utilizam computação e também como profissional liberal, desenvolvendo softwares e aplicativos em geral.
+	#A Em uma secretaria ou área do governo, como Relações Públicas.
+	#A Na NASA, como Astronauta.  
+	#A Em uma agência digital, como Gestor de Marketing.
+	#A Em uma multinacional, como Gerente de Logística. 
+
+#D Medium
+
+#Q Após se formar no curso de Ciência da Computação, o profissional poderá:
+	#A Trabalhar com desenvolvimento de softwares industriais e comerciais, aplicativos, serviços na área de telefonia, comunicação de dados, redes de computadores e computação móvel.
+	#A Criar um roteiro e produzir uma série para televisão.
+	#A Abrir sua própria empresa de produção e gestão de conteúdos em redes sociais.
+	#A Desenvolver projetos de design, criando produtos para empresas. 
+	#A Trabalhar na indústria do entretenimento, criando projetos de espetáculos de música e teatro.
+    
+#Q Dentre as alternativas, quais são as certificações que o curso de Ciência da Computação oferece: 
+	#A Projetista de Linguagens de Programação, Programador Pleno e Gerente de Redes de Computadores.
+	#A Editor de Notícias e Gestor de Conteúdo de Redes Sociais.
+	#A Analista de Métricas e Gerente de Negócios.
+	#A Diretor de Cena e Técnico de Som Direto.
+	#A Técnico em Mecânica Industrial.
+
+#D Hard
+
+#Q Dentre as alternativas, qual delas representa o conjunto de disciplinas integrantes do currículo do curso de  Ciência da Computação:
+	#A Inteligência Artificial, Laboratório de Sistemas Operacionais, Processamento Gráfico.
+	#A Comportamento de Consumo, Computação Gráfica e Física.
+	#A História da Arte, Lógica e Geografia.
+	#A Química, Literatura e Anatomia.
+	#A Roteiro, História Moderna e Som.
+

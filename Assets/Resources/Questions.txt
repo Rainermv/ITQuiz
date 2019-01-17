@@ -1,0 +1,174 @@
+﻿// THIS IS A COMMENTARY
+#D Easy
+
+#Q Pergunta Easy 1
+	#S Jogos
+	#A A1
+	#A A2
+	#A A3
+	#A A4
+	#H A1
+	
+#Q Pergunta Easy  2
+	#S Segurança
+	#A A1
+	#A A2
+	#A A3
+	#A A4
+	#H A1
+
+#Q Pergunta Easy  3
+	#S Sistemas
+	#A A1
+	#A A2
+	#A A3
+	#A A4
+	#H A1
+
+#Q Pergunta Easy  4
+	#S Jogos
+	#A A1 
+	#A A2
+	#A A3
+	#A A4
+	#H A1
+
+#Q Pergunta Easy  5
+	#S Segurança
+	#A A1
+	#A A2
+	#A A3
+	#A A4
+	#H A1
+	
+#Q Pergunta Easy  6
+	#S Sistemas
+	#A A1
+	#A A2
+	#A A3
+	#A A4
+	#H A1
+	
+#Q Pergunta Easy  7
+	#S Computação
+	#A A1
+	#A A2
+	#A A3
+	#A A4
+	#H A1
+	
+#D Medium
+
+#Q Pergunta Medium 1
+	#S Computação
+	#A A1
+	#A A2
+	#A A3
+	#A A4
+	#H A1
+	
+#Q Pergunta Medium  2
+	#S Computação
+	#A A1
+	#A A2
+	#A A3
+	#A A4
+	#H A1
+
+#Q Pergunta Medium  3
+	#S Computação
+	#A A1
+	#A A2
+	#A A3
+	#A A4
+	#H A1
+
+#Q Pergunta Medium  4
+	#S Computação
+	#A A1
+	#A A2
+	#A A3
+	#A A4
+	#H A1
+
+#Q Pergunta Medium  5
+	#S Computação
+	#A A1
+	#A A2
+	#A A3
+	#A A4
+	#H A1
+	
+#Q Pergunta Medium  6
+	#S Computação
+	#A A1
+	#A A2
+	#A A3
+	#A A4
+	#H A1
+	
+#Q Pergunta Medium  7
+	#S Computação
+	#A A1
+	#A A2
+	#A A3
+	#A A4
+	#H A1
+	
+#D Hard
+
+#Q Pergunta Hard 1
+	#S Computação
+	#A A1
+	#A A2
+	#A A3
+	#A A4
+	#H A1
+	
+#Q Pergunta Hard  2
+	#S Computação
+	#A A1
+	#A A2
+	#A A3
+	#A A4
+	#H A1
+
+#Q Pergunta Hard  3
+	#S Computação
+	#A A1
+	#A A2
+	#A A3
+	#A A4
+	#H A1
+
+#Q Pergunta Hard  4
+	#S Computação
+	#A A1
+	#A A2
+	#A A3
+	#A A4
+	#H A1
+
+#Q Pergunta Hard  5
+	#S Computação
+	#A A1
+	#A A2
+	#A A3
+	#A A4
+	#H A1
+	
+#Q Pergunta Hard  6
+	#S Computação
+	#A A1
+	#A A2
+	#A A3
+	#A A4
+	#H A1
+	
+#Q Pergunta Hard  7
+	#S Computação
+	#A A1
+	#A A2
+	#A A3
+	#A A4
+	#H A1
